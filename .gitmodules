@@ -1,6 +1,3 @@
 [submodule "foo"]
 	path = foo
 	url = ./
-[submodule "bar"]
-	path = bar
-	url = https://github.com/phil-opp/5c5a5c63-6e62-4760-b53e-ccc745f48485.git
